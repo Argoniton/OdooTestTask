@@ -26,9 +26,13 @@ parts = []
 for i in range(10**n):
     if suma_part == num_sum(i, n):
         # select the parts that have suma_part sum of its digits
-        parts.append(num_to_str(i, n))
+        parts.append(num_to_str(i, n)) 
 
+# number of lucky tickets
+print(len(parts)**2)
+
+# output lucky numbers
 for p1 in parts:
     for p2 in parts:
         # combine the parts in all possible ways
-        print(p1+p2)
+        print(p1+p2)    
