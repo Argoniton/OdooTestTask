@@ -29,8 +29,12 @@ The five actions are available:
 ## Wave on Image
 ###### EXERCISE 7
 
-The program generates waves on an image. Two waves are available linear and radial. Waves may overlap on an image.
+The program generates waves on an image. Two waves are available linear and radial. 
+
+![img](https://github.com/Argoniton/OdooTestTask/blob/master/Wave%20on%20Image/Images%20with%20Waves/linear%20wave%200.2%20and%20angle%200.52.png)
+
+Waves may overlap on an image.
 
 ![alt text](https://github.com/Argoniton/OdooTestTask/blob/master/Wave%20on%20Image/Images%20with%20Waves/centered%20and%20linear%20waves.png)
 
-![img](https://github.com/Argoniton/OdooTestTask/blob/master/Wave%20on%20Image/Images%20with%20Waves/linear%20wave%200.2%20and%20angle%200.52.png)
+
